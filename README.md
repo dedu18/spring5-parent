@@ -1,5 +1,4 @@
-# spring5-parent
-spring5源码分析，maven构建管理
+spring5源码，maven构建管理
 
 注意事项：
 1.需要额外添加外部jar的模块如下：

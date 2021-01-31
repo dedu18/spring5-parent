@@ -26,9 +26,5 @@
   	<module>spring-webflux</module>
   	<module>spring-test</module>
   	<module>spring-context-indexer</module>
-  	<module>test</module>
-  	<module>opr-test</module>
-  	<module>opr-springboot</module>
-  	<module>opr-mvc</module>
   </modules>
 </project>
